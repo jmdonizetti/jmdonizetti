@@ -1,16 +1,37 @@
-### Hi there 👋
+<div align="center">
+    <img align="center" alt="Joao" height="320" width="430" src="https://media.tenor.com/iAy-KwJB1DkAAAAC/typing.gif">
+</div>
 
-<!--
-**jmdonizetti/jmdonizetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hello! I'm João Marcos 👋
+ 
+- 🎓 Studying systems analysis and development - UNOPAR (2023.12)
+- 😁 Developer front-end
+- 🌱 Studying Angular 
+- 📫 Contact by email j_donizetti@outlook.com
+- 🌎 Linkedin: https://www.linkedin.com/in/joaomarcosrodrigues/
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Joao-Angular" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+</div>
+
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/pai.do.apollo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaomarcosrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
+
+ <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmdonizetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmdonizetti&layout=compact&langs_count=16&theme=dark"/>
+  </div>
+
+
