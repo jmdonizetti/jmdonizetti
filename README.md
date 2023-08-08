@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" alt="Joao" height="320" width="430" src="https://media.tenor.com/iAy-KwJB1DkAAAAC/typing.gif">
+    <img align="center" alt="Joao" height="520" width="1030" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 </div>
 
 
