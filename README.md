@@ -5,7 +5,7 @@
 
 ### Hello! I'm João Marcos 👋
  
-- 🎓 Studying systems analysis and development - UNOPAR (2023.12)
+- 🎓 Studying systems analysis and development - UNOPAR (2024.12)
 - 😁 Developer front-end
 - 🌱 Studying Angular 
 - 📫 Contact by email j_donizetti@outlook.com
