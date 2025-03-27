@@ -10,6 +10,7 @@
 - 🌱 Studying Angular 
 - 📫 Contact by email j_donizetti@outlook.com
 - 🌎 Linkedin: https://www.linkedin.com/in/joaomarcosrodrigues/
+- 🌎 My portfolio: in comming
   
 
   <div style="display: inline_block"><br>
