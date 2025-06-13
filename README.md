@@ -5,12 +5,12 @@
 
 ### Hello! I'm João Marcos 👋
  
-- 🎓 Studying systems analysis and development - UNOPAR (2024.12)
+- 🎓 Systems analysis and development
 - 😁 Developer front-end
 - 🌱 Studying Angular 
 - 📫 Contact by email j_donizetti@outlook.com
 - 🌎 Linkedin: https://www.linkedin.com/in/joaomarcosrodrigues/
-- 🌎 My portfolio: in comming
+- 🌎 My portfolio: https://jmdonizetti.github.io/Portfolio-joao/
   
 
   <div style="display: inline_block"><br>
